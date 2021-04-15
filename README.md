@@ -1,2 +1,2 @@
-# appPhoneGap
-Aplicaciones creadas con PhoneGap
+# appPhaser
+Aplicaciones creadas con Phaser
